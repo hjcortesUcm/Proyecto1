@@ -9,7 +9,7 @@ class Application
 	private static $instancia;
 
 	/**
-	 * Almacena si la Aplicacion ya ha sido inicializada.
+	 * Almacena si la Aplicacion ya ha sido inicializada. modificado!!
 	 * 
 	 * @var boolean
 	 */
